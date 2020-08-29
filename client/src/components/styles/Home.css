@@ -1,0 +1,18 @@
+.material-icons {
+  cursor: pointer;
+}
+
+i:hover {
+  font-size: 35px;
+}
+
+span {
+  padding-right: 20px;
+  padding-bottom: 20px;
+  text-decoration: underline;
+}
+
+.comment {
+  background-color: rgb(254, 242, 239);
+  padding-bottom: 14px;
+}
